@@ -1,2 +1,0 @@
-# AlgoritmoDiscreto
-Hallar Raiz
